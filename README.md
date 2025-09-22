@@ -115,7 +115,3 @@ A complete NFT project from asset creation to minting. I developed a Python scri
 <br>
 
 ---
-
-## 📈 My GitHub Stats
-
-![Anhad's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
